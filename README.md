@@ -1,4 +1,4 @@
-### Hi there 👋
+### Oiiii 👋
 - 🔭 Estou aberta para novas oportunidades!
 - 🌱 Eu estou atualmente estudando PHP, HTML/CSS, C e Kotlin.
 - 🎓 Aluna de Análise e Desenvolvimento de Sistemas pelo Instituto Federal de São Paulo.
