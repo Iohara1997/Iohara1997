@@ -1,9 +1,9 @@
 ### Oiiii 👋
-- 🔭 Estou aberta para novas oportunidades!
-- 🌱 Eu estou atualmente estudando PHP, HTML/CSS, C e Kotlin.
+- 🔭 Frequentadora assídua em Aprendizagem Contínua.
+- 🤓 Atualmente estudando Python, JavaScript, Node JS e tecnologias AWS.
 - 🎓 Aluna de Análise e Desenvolvimento de Sistemas pelo Instituto Federal de São Paulo.
 - 📫 Contato na bio! 
-- ⚡ Fun fact: https://myanimelist.net/profile/Iohara
+- ⚡ Fatos nada a ver: amo animes, segue lista https://myanimelist.net/profile/Iohara
 
 <!--
 **Iohara1997/Iohara1997** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
