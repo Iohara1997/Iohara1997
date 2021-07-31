@@ -1,6 +1,8 @@
 <p align="center" alt="Iohara"><img height="220" width="220" src="https://i.pinimg.com/originals/08/fb/61/08fb615b1a389de5bc0410136d75f50d.gif"></p>
 
-### ⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀Oiiii 👋
+<p align="center">Oii, tudo bom?</p>
+
+###
 - 🤓 Atualmente estudando TypeScript, Ruby on Rails e tecnologias AWS.
 - 🎓 Aluna de Análise e Desenvolvimento de Sistemas pelo Instituto Federal de São Paulo.
 - ⚡ Fatos nada a ver: amo animes, segue lista https://myanimelist.net/profile/Iohara 
