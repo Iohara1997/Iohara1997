@@ -4,7 +4,7 @@
 
 ###
 - 🤓 Atualmente estudando TypeScript, Ruby on Rails e tecnologias AWS.
-- 🎓 Aluna de Análise e Desenvolvimento de Sistemas pelo Instituto Federal de São Paulo.
+- 🎓 Aluna de Sistemas da Informação.
 - ⚡ Fatos nada a ver: amo animes, segue lista https://myanimelist.net/profile/Iohara 
 
 <p align="center">
