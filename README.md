@@ -3,8 +3,7 @@
 <p align="center">Oii, tudo bom?</p>
 
 ###
-- 🤓 Atualmente estudando TypeScript, Ruby on Rails e tecnologias AWS.
-- 🎓 Aluna de Sistemas da Informação.
+
 - ⚡ Fatos nada a ver: amo animes, segue lista https://myanimelist.net/profile/Iohara 
 
 <p align="center">
