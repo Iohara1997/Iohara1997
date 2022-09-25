@@ -19,7 +19,6 @@
   <img align="center" alt="Vue" height="25" width="25" src="https://vuejs.org/images/logo.png">
   <img align="center" alt="Python" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg">
   <img align="center" alt="Ruby" height="25" width="25" src="https://raw.githubusercontent.com/jmnote/z-icons/master/svg/ruby.svg">
-  ⠀<img align="center" alt="Rails" height="33" width="33" src="https://cdn3.iconfinder.com/data/icons/popular-services-brands-vol-2/512/ruby-on-rails-512.png">
   <img align="center" alt="C" height="35" width="35" src="https://user-images.githubusercontent.com/57419630/122760833-efb9ca00-d271-11eb-9348-539c0edeee34.png">
 </p>
 
