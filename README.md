@@ -16,7 +16,6 @@
   <img align="center" alt="Node" height="33" width="33" src="https://cdn.iconscout.com/icon/free/png-512/node-js-1-1174935.png">
   <img align="center" alt="HTML" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
   <img align="center" alt="CSS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
-  <img align="center" alt="Vue" height="25" width="25" src="https://vuejs.org/images/logo.png">
   <img align="center" alt="Python" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg">
   <img align="center" alt="Ruby" height="25" width="25" src="https://raw.githubusercontent.com/jmnote/z-icons/master/svg/ruby.svg">
   <img align="center" alt="C" height="35" width="35" src="https://user-images.githubusercontent.com/57419630/122760833-efb9ca00-d271-11eb-9348-539c0edeee34.png">
