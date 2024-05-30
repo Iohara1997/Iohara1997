@@ -4,8 +4,6 @@
 
 ###
 
-- ⚡ Fatos nada a ver: amo animes, segue lista https://myanimelist.net/profile/Iohara 
-
 <p align="center">
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=Iohara1997&count_private=true&show_icons=true&theme=monokai&border_color=C71B5F"/>
   <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Iohara1997&layout=compact&langs_count=8&theme=monokai&border_color=C71B5F"/>
